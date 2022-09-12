@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anushka512
 - 🌱 I’m currently learning Web development.
--
+- 🌱 I’m currently working on something cool!
 
 <!---
 Anushka512/Anushka512 is a ✨ special ✨ repository because its `anu.md` (this file) appears on your GitHub profile.

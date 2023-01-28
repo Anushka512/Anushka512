@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Anushka512
-- 🌱 I’m currently learning Web development.
+👋 Hi, I’m @Anushka512
+ I’m currently doing Web development.
 
 <!---
 Anushka512/Anushka512 is a ✨ special ✨ repository because its `anu.md` (this file) appears on your GitHub profile.

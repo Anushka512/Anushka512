@@ -17,9 +17,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/anushka agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushka agrawal" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/anuu_512" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anuu_512" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@agrawalanushka5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@agrawalanushka5" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anushka_512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anushka_512" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@agrawalanushka512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@agrawalanushka512" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@agrawalanushka5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@agrawalanushka5" height="30" width="40" /></a><span></span>
+<a href="https://www.leetcode.com/anushka_512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anushka_512" height="30" width="40" /></a></a><span></span>
+<a href="https://www.hackerearth.com/@agrawalanushka512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@agrawalanushka512" height="30" width="40" /></a></a><span></span>
 <a href="https://auth.geeksforgeeks.org/user/agrawalanushka512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="agrawalanushka512" height="30" width="40" /></a>
 </p>
 

@@ -1,4 +1,4 @@
-![MasterHead](https://4kwallpapers.com/images/wallpapers/discover-embrace-be-you-pink-neon-inspirational-quotes-3840x2160-2191.jpg)
+![MasterHead](https://4kwallpapers.com/images/walls/thumbs_3t/2191.jpg)
 <h1 align="center">Hi 👋, I'm Anushka Agrawal</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 

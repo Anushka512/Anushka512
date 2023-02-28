@@ -1,4 +1,4 @@
-![MasterHead](https://i0.wp.com/www.realpythonproject.com/wp-content/uploads/2021/02/1_1NmxcsVu2ZeLr3RqF4rCVw.jpeg?fit=1200%2C800&ssl=1)
+![MasterHead](https://4kwallpapers.com/images/wallpapers/discover-embrace-be-you-pink-neon-inspirational-quotes-3840x2160-2191.jpg)
 <h1 align="center">Hi 👋, I'm Anushka Agrawal</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 

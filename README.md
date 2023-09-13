@@ -43,4 +43,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushka512&" alt="anushka512" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anushka512" alt="anushka512" /></a> </p>
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><span></span>&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=anushka512" alt="anushka512" /></a> </p>
